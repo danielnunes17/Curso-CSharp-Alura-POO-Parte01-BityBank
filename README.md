@@ -55,3 +55,49 @@ Utilizando Construtores;
 Onde está o erro?
 Por que não soma?
 Mãos na massa: Criando construtores e membros estáticos
+
+Na pasta POO3/BityBank temos a parte 03 do curso onde foi abordado:
+C# parte 3: entendendo herança e interface
+Herança:
+
+Nossa primeira herança;
+Sintaxe de herança;
+Sobrepondo comportamentos com override e virtual;
+Propriedades podem ser virtuais?
+A palavra reservada base;
+Herança no C#;
+Repetição de membros;
+Métodos virtuais?
+Mão na massa;
+
+Construtores Protected:
+
+Construtor na classe base;
+Ordem de chamada dos construtores?
+Modificador de visibilidade protected;
+Visibilidade;
+Criando classes abstratas;
+Criando métodos abstratos;
+Chamando o construtor da classe base;
+Para saber mais: sobrecarga em construtores;
+
+Herança Multipla:
+
+O sistema interno do ByteBank;
+Sobre Classes Abstratas;
+Sobre métodos abstratos;
+Classe autenticável;
+
+Interfaces:
+
+Problema da herança múltipla;
+Herdando de várias classes;
+Usando interfaces;
+Conceitos de Interfaces;
+Classes abstratas e interfaces;
+Mão na massa;
+Projeto final do curso;
+Conclusão;
+
+
+
