@@ -1,6 +1,6 @@
 Curso C# Alura - Orientação a objeto;
 Professor: Guilherme Matheus Costa;
-Fiz todos os códigos adiconando comentários em cada item;
+Fiz todos os códigos adicionando comentários em cada item;
 Parte 01;
 Criar uma Conta Corrente em um banco ficticio de nome "Bity Bank";
 Levar em consideração as regras de negócio do banco;
